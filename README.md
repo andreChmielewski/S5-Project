@@ -1,4 +1,4 @@
-# S5 Coding Project
+# S5 Coding Project with Arrays
 
 ## 🎯 Learning Objective
 In the final sprint of the trimester, we addressed arrays. The aim of this assignment is to review arrays to have a more thorough understanding of them.
