@@ -1,11 +1,11 @@
-# S5 Exhibition of Learning
+# S5 Coding Project
 
 ## 🎯 Learning Objective
 In the final sprint of the trimester, we addressed arrays. The aim of this assignment is to review arrays to have a more thorough understanding of them.
 
 ## 📝 Assignment Description
 
-Your friend has written you for help with writing their Java program. They want to know how they can start using large amounts of data without having too many variables. You, of course, have recommended using arrays. Record a video where you recommend arrays to your friend and explain how to use them. See the complete criteria below for more details.
+Write a small program that utilizes the previous coding we learned to make something fun and interesting. For this project, you can either start from scratch or reuse your old code. If you start from scratch, the program can be simple and small, as long as it incorporates all the coding requirements listed in the completion criteria. If you use your existing code, the project should meet the coding requirements, but also be really well polished and complete.
 
 ## ✅ Completion Criteria
 
@@ -15,26 +15,16 @@ Before you start, complete the following steps:
 - [ ] accept the Academic Honesty Guidelines in 'worksCited.md',
 - [ ] make your first commit to your GitHub project.
 
-The video should be addressed to a friend advising them on how to use arrays to solve the problem of storing and accessing large amount of data in their coding project. The EOL should answer the following:
+The coding project should be a game or useful application that meets the following requirements:
+- [ ] be object-oriented and use data encapsulation,
+- [ ] contain and use arrays to store and access data,
+- [ ] be sufficiently complex* and use new and past coding concepts, 
+- [ ] have a short video explaining what the program does and showing how it works (between 2-5 min)
 
-- [ ] What are arrays and how are they useful?
-- [ ] In what ways can arrays be created in Java and what kind of data can they store?
-- [ ] How can data be accessed and stored in an already existing array in Java?
-- [ ] How can an array be traversed using a _for_ or _while_ loop?
-- [ ] What's an enhanced _for_ loop and how can it be used to access an array?
-- [ ] What are some errors that you might encounter when working with arrays?
-
-Demonstrate how standard algorithms can use arrays to...
-- [ ] Determine a minimum or maximum value
-- [ ] Compute a sum, average, or mode
-- [ ] Determine if at least one element has a particular property
-- [ ] Determine if all elements have a particular property
-- [ ] Access all consecutive pairs of elements
-- [ ] Determine the presence or absence of duplicate elements
-- [ ] Determine the number of elements meeting  specific criteria
+_* The code for this project should be more complex than past projects. This criteria is left open vague on purpose._
 
 Final checklist
-- [ ] Commit any code your write for your EOL here to this GitHub repo,
+- [ ] Make regular commits of your code to the GitHub repo,
 - [ ] Add a link to the video you made below.
 
 ## 🎬 Video link 
